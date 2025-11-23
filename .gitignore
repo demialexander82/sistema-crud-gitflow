@@ -1,0 +1,41 @@
+# Dependencias
+/vendor/
+/node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de sesión
+/sessions/
+
+# Archivos de caché
+/cache/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de configuración local
+config/local.php
+
+# Archivos de base de datos
+#*.sql
+*.sqlite
+
+# Archivos de entorno de desarrollo
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
